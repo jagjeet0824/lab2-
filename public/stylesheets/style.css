@@ -1,0 +1,21 @@
+.image  {
+  text-align: center;
+  opacity: 0.4;
+}
+
+.image:hover{
+  opacity: 0.9;
+}
+.h1{
+  background-color:#2e2e2e;
+  color: white;
+  font-size:70px;
+}
+.text{
+  box-shadow: 1px 1px 1px 1px #888888;
+  display: block;
+  line-height: 2em;
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
